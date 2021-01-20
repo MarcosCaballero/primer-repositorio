@@ -1,1 +1,1 @@
-# primer-repositorio
+esta es la descripcion de mi proyecto
